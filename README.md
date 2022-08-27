@@ -1,1 +1,2 @@
-# amplity-petstorapp
+# amplify-petstoreapp
+## Hell there
